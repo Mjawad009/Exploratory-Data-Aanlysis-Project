@@ -1,3 +1,6 @@
+![Olist](https://github.com/user-attachments/assets/cc07c72d-bec0-438b-92a2-40cb080ec0a2)
+
+
 # Introduction
 
 In this report dataset for a Brazilian ecommerce store Olist is taken from kaggle website. The data is publicly provided by Olist for the period of Oct2016 to Sep2018. The dataset covers all aspects of the revenue streams along with the geographical location of customers and sellers. The store has a significant number of product categories which have multiple products sold under them. 
